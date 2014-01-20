@@ -1,3 +1,5 @@
+require "bundler/gem_tasks"
+
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
